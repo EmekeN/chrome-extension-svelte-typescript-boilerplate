@@ -34,9 +34,9 @@
 </div>
 
 <style>
-    .container {
+    /* .container {
         min-width: 250px;
-    }
+    } */
 
     button {
         border-radius: 2px;

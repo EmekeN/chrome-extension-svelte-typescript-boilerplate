@@ -15,6 +15,7 @@
 </div>
 
 <style>
+    .app
     .overlay {
         position: fixed;
         top: 16px;
@@ -22,5 +23,7 @@
         background-color: white;
         border: 1px solid black;
         padding: 4px;
+        width: 400px;
+        height: 500px;
     }
 </style>
